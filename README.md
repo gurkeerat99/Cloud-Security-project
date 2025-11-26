@@ -1,4 +1,8 @@
-# Cloud-Security-project
+# 🔐 Azure Entra ID Security Hardening Project (Zero Trust | IAM | MFA | RBAC)
+This project demonstrates my hands-on experience with Azure Entra ID security including 
+identity protection, MFA enforcement, Conditional Access Zero Trust policies, RBAC design, and 
+secure authentication governance. It reflects a real-world cloud security engineer workflow.
+
 PROJECT 1 – Azure Identity & Access Security Hardening
 
 1. User Provisioning & Access Setup
@@ -183,19 +187,16 @@ Simulate real-world compromised account detection & automated remediation.
 
 This project overview
 
-# User lifecycle automation
+## 📝 Summary
+This project strengthened identity security posture by implementing Zero Trust controls,
+enhanced MFA enforcement, RBAC governance, and identity threat detection. It simulates 
+what a Cloud Security Engineer would configure in a real Azure environment.
 
-# Zero Trust MFA enforcement
 
-# Conditional Access (geo-blocking + admin MFA)
-
-# RBAC structure with least privilege
-
-# Privileged Identity Management (PIM)
-
-# Identity Protection (risky user detection & remediation)
-
-# Multi-location sign-in attack simulation
-
-# Working enterprise security architecture
+## 🚀 Next Steps
+- Integrate Azure Identity logs with Microsoft Sentinel
+- Deploy Privileged Identity Management (PIM)
+- Automate user provisioning using PowerShell / Graph API
+- Add detection rules for risky sign-ins
+- Add CIEM analysis for role cleanup
 
